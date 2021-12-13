@@ -30,7 +30,7 @@ Please do also ensure that your SQL user login is as such:
    Username: root
    Password: 12N28c02
    
-Installation
+<b>Installation</b>
 Clone the repo
 git clone https://github.com/JSQJ/ETI_Assginment1.git
 
