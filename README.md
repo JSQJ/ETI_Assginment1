@@ -39,16 +39,17 @@
 
 <p>Please do also ensure that your SQL user login is as such:</p>
 
-   Username: root
-   Password: 12N28c02
+   <p>Username: root</p>
+   <p>Password: 12N28c02</p>
    
 <h2><b>Installation</b></h2>
-Clone the repo
-git clone https://github.com/JSQJ/ETI_Assginment1.git
+<h3>Clone the repo</h3>
+<p>git clone https://github.com/JSQJ/ETI_Assginment1.git</p>
 
-Install necessary libraries
-<a>go get -u github.com/go-sql-driver/mysql</a>
-<a>go get -u github.com/gorilla/mux</a>
-<a>go get -u github.com/gorilla/handlers</a>
-
-Execute SQL script in mySQL database
+<h3>Install necessary libraries</h3>
+<ul>
+  <li>go get -u github.com/go-sql-driver/mysql</li>
+  <li>go get -u github.com/gorilla/mux</li>
+  <li>go get -u github.com/gorilla/handlers</li>
+</ul>
+<p>Execute SQL script in mySQL database</p>
